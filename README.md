@@ -1,6 +1,6 @@
 # QuipQuake-Generator
 
-Welcome to **QuipQuake-Generator**! 🎉 It's a Quote Generator that surprises you with a new, random quote every time you click the button. Whether you're seeking motivation, love, or simply a fun quote to brighten your day, this generator has got you covered. It features smooth animations, and every click is a new experience with changing background colors and unique quotes.
+Welcome to **QuipQuake-Generator**!  It's a Quote Generator that surprises you with a new, random quote every time you click the button. Whether you're seeking motivation, love, or simply a fun quote to brighten your day, this generator has got you covered. It features smooth animations, and every click is a new experience with changing background colors and unique quotes.
 
 ## Features
 
