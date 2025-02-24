@@ -25,7 +25,7 @@ Here’s a screenshot of how the Quote Generator looks in action:
 ## Video Tutorial
 
 Want to learn how to build this project? Watch the YouTube tutorial here:  
-[Watch the YouTube Tutorial](https://youtu.be/oreR_SIfj28?si=FX4gcg798UiWuw86)
+[Watch the YouTube Tutorial](https://youtu.be/lXuQTzXY2jg)
 
 ## How It Works
 
