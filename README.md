@@ -9,18 +9,16 @@ Welcome to **QuipQuake-Generator**!  It's a Quote Generator that surprises you w
 - **Background Animation**: The background color changes every few seconds to add a dynamic visual touch.
 - **Smooth User Experience**: Enjoy seamless animation and smooth transitions.
 
-## Demo
-
-Check out the live version of the project here:  
-[QuipQuake Generator Live Demo](https://zayanmustafa.github.io/QuipQuake-Generator/)
-
 ## Screenshot
 
 Here’s a screenshot of how the Quote Generator looks in action:
 
 ![QuipQuake Generator Screenshot] ![Desktop](https://github.com/user-attachments/assets/3bbbda64-c34c-439d-a346-23506505841a) ![Mobile](https://github.com/user-attachments/assets/de620f60-ed0e-406b-898e-be7549075400)
 
-(*Make sure to upload your screenshot to the `/images` folder in the repository to display it here!*)
+## Demo
+
+Check out the live version of the project here:  
+[QuipQuake Generator Live Demo](https://zayanmustafa.github.io/QuipQuake-Generator/)
 
 ## Video Tutorial
 
